@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Janna Lomibao</h1>
 <h3 align="center">A Computer Science Student</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jannalmb00" alt="jannalmb00" /></a> </p>
-
 - 🔭 I’m currently working on **my Portfolio Website and a Mobile Application**
 
 <h3 align="left">Connect with me:</h3>
